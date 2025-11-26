@@ -10,7 +10,7 @@ This project focuses on core NFT functionality without unnecessary complexity.
 
 ## 🎯 Project Vision
 
-To provide an easy entry point for computer science students into blockchain development. This project removes the complexity of advanced features and focuses on understanding the fundamental concepts of NFTs, smart contracts, and decentralized ownership.
+This project provides an easy entry point into blockchain development. This project removes the complexity of advanced features and focuses on understanding the fundamental concepts of NFTs, smart contracts, and decentralized ownership.
 
 **Our Goal:** Make blockchain technology accessible and understandable for every student, regardless of their prior blockchain experience.
 
@@ -244,7 +244,7 @@ MIT License - Free to use for educational purposes
 
 ---
 
-**🎓 Perfect for:** BTech CSE Students | Blockchain Beginners | First Smart Contract Project
+**🎓 Perfect for:** Computer Science Students & Btech CSE Students who are starting/exploring Blockchain as a Beginner | First Smart Contract Project
 
 **⏱️ Time to Complete:** 30-60 minutes
 
