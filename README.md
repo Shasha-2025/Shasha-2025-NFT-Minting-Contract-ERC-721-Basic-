@@ -6,7 +6,7 @@
 
 A simple blockchain project for creating and managing NFTs (Non-Fungible Tokens). This smart contract allows anyone to mint unique digital assets, transfer them to others, and check ownership - all on the Ethereum blockchain.
 
-Built specifically for BTech CSE students learning blockchain development, this project focuses on core NFT functionality without unnecessary complexity.
+This project focuses on core NFT functionality without unnecessary complexity.
 
 ## 🎯 Project Vision
 
